@@ -1,0 +1,15 @@
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\Binaries\Debug\net8.0\Lab_0_Part_2.exe
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\Binaries\Debug\net8.0\Resources.json
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\Binaries\Debug\net8.0\Lab_0_Part_2.deps.json
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\Binaries\Debug\net8.0\Lab_0_Part_2.runtimeconfig.json
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\Binaries\Debug\net8.0\Lab_0_Part_2.dll
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\Binaries\Debug\net8.0\Lab_0_Part_2.pdb
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.AssemblyInfoInputs.cache
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.AssemblyInfo.cs
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.dll
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\refint\Lab_0_Part_2.dll
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.pdb
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\Lab_0_Part_2.genruntimeconfig.cache
+C:\Users\Anastasiia\Desktop\C#\Lab_0_Part_2\Lab_0_Part_2\obj\Debug\net8.0\ref\Lab_0_Part_2.dll

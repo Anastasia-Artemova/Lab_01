@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <BaseOutputPath>Binaries</BaseOutputPath>
+  </PropertyGroup>
+
+  <!--<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="&quot;$(ProjectDir)Resources.json&quot; $(OutDir)" />
+  </Target>
+	
+	<ItenmItemGroup></ItemGroup>
+		
+	<None></None> UpdaUpdate=""Dtaata\Epsilon.json
+			
+		<CopyCopyToOutputDirectory></CopyToOutputDirectory>Always
+	<None></None>		 UpUpdate=""Data\Missions.json
+			
+		<CopCopyToOutputDirectory></CopyToOutputDirectory>Alwaysz-->
+
+  <ItemGroup>
+    <None Update="Resources.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+		<Exec Command="powershell Compress-Archive -Path '$(OutputPath)*' -DestinationPath '$(ProjectDir)OutputArchive.zip'" />
+	</Target>
+	
+
+</Project>
